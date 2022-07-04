@@ -1,0 +1,50 @@
+<template>
+        <div class="main-wrapper">
+
+          <layout-headeradmin></layout-headeradmin>
+
+          <layout-sidebaradmin></layout-sidebaradmin>
+
+          <!-- Page Wrapper -->
+			<div class="page-wrapper">
+				<div class="content container-fluid">
+					
+					<!-- Page Header -->
+					<div class="page-header">
+						<div class="row">
+							<div class="col-sm-12">
+								<h3 class="page-title">Blank Page</h3>
+							</div>
+						</div>
+					</div>
+					<!-- /Page Header -->
+					
+					<!-- Blank Page -->
+					<div class="row">
+						<div class="col-sm-12">
+							Contents here
+						</div>			
+					</div>
+					<!-- /Blank Page -->
+					
+				</div>
+			</div>
+			<!-- /Page Wrapper -->
+          
+        </div>
+</template>
+<script>
+	import Vue from 'vue'
+	export default {
+	  data() {
+	  return {
+	  }
+	  },
+	  components: {
+	 
+	  },
+	  mounted() {
+	  },
+	}
+  </Script>
+  

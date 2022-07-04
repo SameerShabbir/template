@@ -1,0 +1,29 @@
+[
+    {   
+        "id": 1,
+        "img": "patient17.jpg",
+        "name": "Richard Wilson",
+        "time": "14 Nov 2019, 10.00 AM",
+        "state": "Newyork, United States",
+        "mail": "richard@example.com",
+        "phno": "+1 923 782 4575"
+    },
+    {
+        "id": 2,
+        "img": "patient19.jpg",
+        "name": "Charlene Reed",
+        "time": "12 Nov 2019, 5.00 PM",
+        "state": "North Carolina, United States",
+        "mail": "charlenereed@example.com",
+        "phno": "+1 828 632 9170"
+    },
+    {
+        "id": 3,
+        "img": "patient18.jpg",
+        "name": "Travis Trimble",
+        "time": "11 Nov 2019, 8.00 PM",
+        "state": "Maine, United States",
+        "mail": "travistrimble@example.com",
+        "phno": "+1 207 729 9974"
+    }
+]
